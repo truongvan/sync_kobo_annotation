@@ -1,0 +1,13 @@
+[package]
+name = "sync_kobo_annotation"
+version = "0.1.0"
+edition = "2021"
+authors = ["Truong Van <truongvan@live.com>"]
+description = "Sync annotations"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/truongvan/sync_kobo_annotation"
+categories = ["command-line-utilities"]
+keywords = ["kobo", "annotation"]
+
+[dependencies]
